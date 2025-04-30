@@ -1,3 +1,7 @@
+### name : chandru v
+### reg no : 212224230043
+### Ex 05
+
 ### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
@@ -40,17 +44,21 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+![image](https://github.com/user-attachments/assets/f4fa96c6-3345-4b99-859e-dd13bba140c0)
 
-Developed by: RegisterNumber:
-*/
+/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming.
 
+Developed by:chandru v RegisterNumber:24900106 */
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
+![388805513-bb58bfca-e469-48a2-b34a-00bbffcb0688](https://github.com/user-attachments/assets/6e79c77e-3f29-4417-8f1f-c705e9fc0c63)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![388805554-d67df5da-7f05-4e23-a088-008a878b1420](https://github.com/user-attachments/assets/8df4ad42-8cca-4ccc-bd96-9c614056ec90)
+
 **RESULTS**
 
-
+8:3 encoder implemented successfully truth table has verified.
 
 
